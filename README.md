@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**manjushree-bhagat/manjushree-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Manjushree!
 
-Here are some ideas to get you started:
+**Bioengineering student • Open science advocate**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+## <img src="https://img.shields.io/badge/About_Me-FF69B4?style=for-the-badge" alt="Area Of Interest" />
+
+I have strong interests in bioinformatics, biochemistry, immunology, genetics, drug design, 3D Designing and molecular docking.
+
+## <img src="https://img.shields.io/badge/What_I'm_Working_On-FF69B4?style=for-the-badge" alt="What I'm Working On" />
+
+• immunology and genetics
+
+• performance checks of medical equipment 
+
+• 3D Designing and molecular docking
+
+## <img src="https://img.shields.io/badge/Tech_Stack-FF69B4?style=for-the-badge" alt="Tech Stack" />
+
+**Languages:** Python   
+**Tools:** Fusion 360, Jupyter, MATLAB
+
+## <img src="https://img.shields.io/badge/Let's_Connect-FF69B4?style=for-the-badge" alt="Let's Connect" />
+
+Feel free to reach out for collaborations or just to chat about my work!
+
+
+
+<div align="center">
+
+**Thanks for visiting my profile ✨**
+
+</div>
