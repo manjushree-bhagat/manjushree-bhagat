@@ -7,9 +7,9 @@
 </div>
 
 
-## <img src="https://img.shields.io/badge/About_Me-FF69B4?style=for-the-badge" alt="Area Of Interest" />
+## <img src="https://img.shields.io/badge/About_Me-FF69B4?style=for-the-badge" alt="About Me" />
 
-I have strong interests in bioinformatics, biochemistry, immunology, genetics, drug design, 3D Designing and molecular docking.
+I'm a bioengineering student at D.Y Patil International University, Akrudu, Pune, with strong interests in bioinformatics, biochemistry, immunology, genetics, drug design, 3D Designing and molecular docking.
 
 ## <img src="https://img.shields.io/badge/What_I'm_Working_On-FF69B4?style=for-the-badge" alt="What I'm Working On" />
 
